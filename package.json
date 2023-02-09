@@ -4,8 +4,8 @@
   "description": "",
   "types": "./lib/main.d.ts",
   "scripts": {
-    "start": "node ./tasks/start.mjs",
-    "build": "node ./tasks/build.mjs",
+    "start": "node ./scripts/start.mjs",
+    "build": "node ./scripts/build.mjs",
     "lint": "",
     "format": "",
     "test": ""
