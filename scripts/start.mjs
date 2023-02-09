@@ -1,1 +1,3 @@
-// Run a development server with vite
+/*
+  Run a development server with Vite or esbuild-dev-server
+ */
